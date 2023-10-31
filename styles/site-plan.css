@@ -5,10 +5,10 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #2223E0   ;
-  --secondary-color: #363647 ;
-  --accent1-color: #3D3DAD;
-  --accent2-color: #2B2B33;
+  --primary-color: #BBB1C1  ;
+  --secondary-color: #F2561D ;
+  --accent1-color: #F2CB05;
+  --accent2-color: #000000;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Oswald", "Noto Sans", sans-serif;
@@ -92,6 +92,7 @@ p {
 }
 .accent2{
   background-color: var(--accent2-color);
+  color: white;
 }
 
 p.colored {
