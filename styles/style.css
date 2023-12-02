@@ -143,6 +143,10 @@ h6{
     margin: 25px;
 }
 footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     display: grid;
     grid-template-columns: 25% 50% 25%;
     background-color: #F2561D;
