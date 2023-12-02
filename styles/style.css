@@ -151,6 +151,7 @@ footer{
     grid-template-columns: 25% 50% 25%;
     background-color: #F2561D;
     font-size: 10px;
+    border-top: 2px solid #BBB1C1;
 }
 .contact{
     text-align: center;
