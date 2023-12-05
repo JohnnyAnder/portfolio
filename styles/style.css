@@ -62,7 +62,7 @@ nav a:hover{
     background-color: #F2561D;
     padding-top: 30px;
     margin: 0 75px;
-    margin-bottom: 75px;
+    margin-bottom: 150px;
 }
 main img{
     max-width: 90%;
@@ -94,7 +94,7 @@ h6{
     background-color: #F2561D;
     margin: 0 auto;
     margin-top: -10px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     padding: 40px 0;
     border: 2px solid black;
 }
@@ -132,6 +132,7 @@ h6{
     text-align: center;
     background-color: #F2561D;
     margin: 100px;
+    margin-bottom: 150px;
     justify-items: center;
 }
 #music-grid h3{
