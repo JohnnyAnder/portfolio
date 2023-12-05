@@ -197,6 +197,9 @@ footer h3{
         display: block;
         padding: 15px;
     }
+    .logo{
+        max-width: 110px;
+    }
     .main{
         grid-template-columns: 1fr;
     }
